@@ -14,17 +14,10 @@ This project explores and visualizes trends in Netflix movies using a dataset of
 
 ## 📊 Visualizations
 <p> Genre Distribution<br>
-  ![image](https://github.com/user-attachments/assets/b4d8eb9c-d74d-42f3-95e2-ccf762129561)
+Vote Distribution<br>
+Release Year Distribution
 </p>
-<br>
-<p>Vote Distribution<br>
-![Vote Distribution](https://github.com/user-attachments/assets/72671cd7-c94c-4270-b613-84dfc4214c04)
-</p>
-<br>
-<p>Release Year Distribution<br>
-![Release Year Distribution](https://github.com/user-attachments/assets/51892567-bc9c-4c80-88d5-e0a854f340f1)
-</p>
-<br>
+
 
 ## 🔍 Key Insights
 - Most frequent genre: **Drama**
