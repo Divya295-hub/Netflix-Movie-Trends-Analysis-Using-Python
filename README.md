@@ -14,15 +14,15 @@ This project explores and visualizes trends in Netflix movies using a dataset of
 
 ## 📊 Visualizations
 <p> Genre Distribution<br>
-https://github.com/Divya295-hub/Netflix-Movie-Trends-Analysis-Using-Python/blob/main/Genre%20Distribution.png
+![Genre Distribution Image]https://github.com/Divya295-hub/Netflix-Movie-Trends-Analysis-Using-Python/blob/main/Genre%20Distribution.png
 </p>
 <br>
 <p>Vote Distribution<br>
-https://github.com/Divya295-hub/Netflix-Movie-Trends-Analysis-Using-Python/blob/main/Vote%20Distribution.png
+![Vote Distribution Image]https://github.com/Divya295-hub/Netflix-Movie-Trends-Analysis-Using-Python/blob/main/Vote%20Distribution.png
 </p>
 <br>
 <p>Release Year Distribution<br>
-https://github.com/Divya295-hub/Netflix-Movie-Trends-Analysis-Using-Python/blob/main/Release%20Year%20Distribution.png
+![Release Year Distribution Image]https://github.com/Divya295-hub/Netflix-Movie-Trends-Analysis-Using-Python/blob/main/Release%20Year%20Distribution.png
 </p>
 <br>
 
