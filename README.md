@@ -3,7 +3,7 @@ This project explores and visualizes trends in Netflix movies using a dataset of
 
 
 ## Dataset Used
-<a href='https://github.com/Divya295-hub/Vrinda-Store-Sales-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Dataset.xlsx'>Vrinda Store Dataset</a>
+<a href='https://github.com/Divya295-hub/Netflix-Movie-Trends-Analysis-Using-Python/blob/main/mymoviedb.csv'>Netflix Movie Trends Dataset</a>
 
 
 ## 🛠️ Tools Used
