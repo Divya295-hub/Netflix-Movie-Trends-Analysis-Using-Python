@@ -14,7 +14,7 @@ This project explores and visualizes trends in Netflix movies using a dataset of
 
 ## 📊 Visualizations
 <p> Genre Distribution<br>
-![Genre Distribution](https://github.com/user-attachments/assets/66353625-b54a-40e8-8915-75c3fae7b93a)
+![Genre Distribution]https://github.com/Divya295-hub/Netflix-Movie-Trends-Analysis-Using-Python/blob/main/Genre%20Distribution.png
 </p>
 <br>
 <p>Vote Distribution<br>
