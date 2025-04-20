@@ -30,7 +30,7 @@ Release Year Distribution
 <p>
 This analysis of Netflix movie data reveals meaningful insights into viewing trends and content strategies on the platform.By leveraging Python and powerful data science libraries, we transformed raw data into actionable findings—like the dominance of the Drama genre, the surge in movie releases in 2020, and a better understanding of audience voting patterns. This project not only showcases exploratory data analysis (EDA) skills but also demonstrates an ability to prepare, categorize, and visualize complex datasets to drive storytelling through data.</p>
 <p>
-It can serve as a foundation for further work like:<br>
+It can serve as a foundation for further work like:
 <ul>
 <li>Predictive modeling (e.g., popularity or rating prediction)</li>
 <li>Recommendation systems</li>
